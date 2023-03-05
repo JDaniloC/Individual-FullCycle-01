@@ -1,4 +1,4 @@
-# Individual-FullCycle-01
+# FullCycle training
 Learning Go, Apache Kafka and Kubernets
 
 ## Simulator and Kafka working
